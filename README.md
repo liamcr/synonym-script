@@ -11,7 +11,7 @@ That said, here is an example output:
 
 If you're wondering what "feeling lucky" means, as well as what impact "how lucky?" has on the output, let me explain.
 
-If the user isn't feeling lucky, then the script will go through the sentence word-by-word and display the top-5 most relavent synonyms for each word, and ask the user which word of the 5 they would like in the sentence. If the user is feeling lucky, the program edits the sentence automatically.
+If the user isn't feeling lucky, then the script will go through the sentence word-by-word and display the top-5 most relavent synonyms for each word. It will then ask the user which word of the 5 they would like to be used in the sentence. If the user is feeling lucky, the program edits the sentence automatically.
 
 So how does "how lucky?" effect everything? Well if the user thinks they're about 1 on a scale of 5, then the program will automatically go through the sentence and replace each word with the most relavent synonym that the library returns. If the user is feeling more lucky, let's say a 4 out of 5, the script will replace the each word with a synonym somewhere between the most relavent, and the fourth-most relavent synonym that the library returns.
 
