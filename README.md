@@ -15,4 +15,4 @@ If the user isn't feeling lucky, then the script will go through the sentence wo
 
 So how does "how lucky?" effect everything? Well if the user thinks they're about 1 on a scale of 5, then the program will automatically go through the sentence and replace each word with the most relavent synonym that the library returns. If the user is feeling more lucky, let's say a 4 out of 5, the script will replace the each word with a synonym somewhere between the most relavent, and the fourth-most relavent synonym that the library returns.
 
-So essentially, the more lucky the user feels, the less likely the new sentence will have the same meaning as the old sentence.
+So essentially, the more lucky the user feels, the less likely it is that the new sentence will have the same meaning as the old sentence.
